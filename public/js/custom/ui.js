@@ -10,6 +10,7 @@ class UI {
         this.emailInput.value = "";
         this.passwordInput.value = "";
 
+
     }
 
     showUserInfo(user) {
